@@ -9,7 +9,9 @@ A Two-player game using asmx86
 
 **How to run the Code ?**
 > 1 - Open DOSBox
+
 > 2 - apply your configurations
+
 > 3 - Write in dosbox
 ```
 masm team5_1.asm
